@@ -60,10 +60,6 @@ Users may also view all enrolled courses in an organized, numbered list showing 
 
 This project reinforces core programming skills and provides a practical example of how multiple classes interact in Java to form a complete system. It also serves as a foundation for expanding into more advanced features such as data validation, persistent storage, or graphical user interfaces.
 
-## 🖼️ Sample Output
-
-![Sample Output](images/sample-output.png)
-
 🙏 Author And Acknowledgements
 ---
   Leo Azucena
@@ -77,6 +73,27 @@ Email: ianleoazucena@gmail.com
 I would like to sincerely thank my groupmates for their hard work, creativity, and collaboration throughout this project. Your support, dedication, and valuable ideas were essential in overcoming challenges and successfully completing the system.
 
 I would also like to thank our professor for providing us with the opportunity to work on this project. This experience allowed us to apply what we learned in class and further expand our knowledge of Object-Oriented Programming through hands-on practice.
+
+  Gian Carlo Baitan 
+---
+ Designs Program Flow and User Experience
+
+ Program: BS Information Technology
+
+Email: giancarlobaitan@gmail.com
+
+I would like to sincerely thank my professor and classmates for their guidance and support throughout the development of the Course Enrollment System. Their valuable feedback and encouragement made it possible to successfully create this Java-based console application.
+
+  Josh Anthony Santoyo 
+---
+ Tests and Debugs the Application
+
+ Program: BS Information Technology
+
+Email: joshsantoyo15@gmail.com
+
+I am grateful for the support and guidance received during the development of the Course Enrollment System. This experience allowed me to apply Java programming concepts and enhance my understanding of object-oriented programming.
+ 
 ## 🌱 Future Enhancements
 
 This section outlines possible improvements or features that can be added to the Course Enrollment System in the future:
