@@ -73,3 +73,27 @@ Email: ianleoazucena@gmail.com
 I would like to sincerely thank my groupmates for their hard work, creativity, and collaboration throughout this project. Your support, dedication, and valuable ideas were essential in overcoming challenges and successfully completing the system.
 
 I would also like to thank our professor for providing us with the opportunity to work on this project. This experience allowed us to apply what we learned in class and further expand our knowledge of Object-Oriented Programming through hands-on practice.
+## 🌱 Future Enhancements
+
+This section outlines possible improvements or features that can be added to the Course Enrollment System in the future:
+
+- Implement a graphical user interface (GUI) to provide a more user-friendly experience instead of using the console.  
+- Add persistent storage using a database (e.g., MySQL, SQLite) to save enrolled courses between sessions.  
+- Introduce user authentication so that multiple students can log in and manage their own enrollments securely.  
+- Implement advanced input validation and error handling to prevent invalid course entries.  
+- Add functionality to edit or delete enrolled courses.  
+- Enable sorting and filtering of courses by type, units, or course code for easier viewing.  
+- Expand the system to generate reports or summaries of enrolled courses.  
+
+---
+
+## 🌐 References
+
+This section lists all the resources and materials used to develop the project:
+
+- TutorialsPoint – Java Programming Tutorial – [https://www.tutorialspoint.com/java/index.htm](https://www.tutorialspoint.com/java/index.htm)  
+- W3Schools – Java references and tutorials – [https://www.w3schools.com/java/](https://www.w3schools.com/java/)  
+- GeeksforGeeks – Java programming examples and OOP concepts – [https://www.geeksforgeeks.org/java/](https://www.geeksforgeeks.org/java/)  
+- Lecture Notes and Slides from our Information Technology course.  
+- Visual Studio Code (VSCode) – IDE used for coding and testing the program.  
+- YouTube Tutorials – Java programming tutorials for beginners and advanced users (various channels).  
