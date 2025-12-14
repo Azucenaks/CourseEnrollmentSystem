@@ -60,6 +60,10 @@ Users may also view all enrolled courses in an organized, numbered list showing 
 
 This project reinforces core programming skills and provides a practical example of how multiple classes interact in Java to form a complete system. It also serves as a foundation for expanding into more advanced features such as data validation, persistent storage, or graphical user interfaces.
 
+## 🖼️ Sample Output
+
+![Sample Output](images/sample-output.png)
+
 🙏 Author And Acknowledgements
 ---
   Leo Azucena
